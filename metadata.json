@@ -1,0 +1,5 @@
+{
+  "name": "Fantasy Map Atlas",
+  "description": "An interactive RPG-style map viewer with custom markers and descriptions.",
+  "requestFramePermissions": []
+}
